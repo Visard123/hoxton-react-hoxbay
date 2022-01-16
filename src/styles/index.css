@@ -208,6 +208,7 @@ img {
   text-align: center;
   color: var(--white);
   font-size: 2.5rem;
+  background-color: #0064d3;
 }
 
 .categories-container__list a:hover {
